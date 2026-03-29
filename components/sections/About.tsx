@@ -73,7 +73,7 @@ export default function About() {
               <div className="absolute bottom-4 right-4 w-32 h-32 rounded-full bg-accent-secondary/5 blur-3xl" />
 
               {/* Centered circular profile image container */}
-              <div className="absolute inset-0 flex items-center justify-center">
+              <div className="absolute inset-0 flex items-center justify-center pb-12">
                 <div className="relative">
                   {/* Outer glow ring */}
                   <div
